@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-dummy",
     "status": "down",
-    "uptime": "77.29%",
-    "uptimeDay": "77.29%",
-    "uptimeWeek": "77.29%",
-    "uptimeMonth": "77.29%",
-    "uptimeYear": "77.29%",
+    "uptime": "55.89%",
+    "uptimeDay": "55.89%",
+    "uptimeWeek": "55.89%",
+    "uptimeMonth": "55.89%",
+    "uptimeYear": "55.89%",
     "time": 98,
     "timeDay": 98,
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2022-01-07": 35
+      "2022-01-07": 95
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-bias-detection",
     "status": "down",
-    "uptime": "73.99%",
-    "uptimeDay": "73.99%",
-    "uptimeWeek": "73.99%",
-    "uptimeMonth": "73.99%",
-    "uptimeYear": "73.99%",
+    "uptime": "53.51%",
+    "uptimeDay": "53.51%",
+    "uptimeWeek": "53.51%",
+    "uptimeMonth": "53.51%",
+    "uptimeYear": "53.51%",
     "time": 98,
     "timeDay": 98,
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2022-01-07": 41
+      "2022-01-07": 101
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-stance-detection",
     "status": "down",
-    "uptime": "78.60%",
-    "uptimeDay": "78.60%",
-    "uptimeWeek": "78.60%",
-    "uptimeMonth": "78.60%",
-    "uptimeYear": "78.60%",
+    "uptime": "56.84%",
+    "uptimeDay": "56.84%",
+    "uptimeWeek": "56.84%",
+    "uptimeMonth": "56.84%",
+    "uptimeYear": "56.84%",
     "time": 1385,
     "timeDay": 1385,
     "timeWeek": 1385,
     "timeMonth": 1385,
     "timeYear": 1385,
     "dailyMinutesDown": {
-      "2022-01-07": 33
+      "2022-01-07": 93
     }
   },
   {
@@ -85,18 +85,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-claim-detection",
     "status": "down",
-    "uptime": "74.65%",
-    "uptimeDay": "74.65%",
-    "uptimeWeek": "74.65%",
-    "uptimeMonth": "74.65%",
-    "uptimeYear": "74.65%",
+    "uptime": "53.98%",
+    "uptimeDay": "53.98%",
+    "uptimeWeek": "53.98%",
+    "uptimeMonth": "53.98%",
+    "uptimeYear": "53.98%",
     "time": 96,
     "timeDay": 96,
     "timeWeek": 96,
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-01-07": 40
+      "2022-01-07": 100
     }
   },
   {
@@ -105,18 +105,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-fact-check",
     "status": "down",
-    "uptime": "74.98%",
-    "uptimeDay": "74.98%",
-    "uptimeWeek": "74.98%",
-    "uptimeMonth": "74.98%",
-    "uptimeYear": "74.98%",
+    "uptime": "54.21%",
+    "uptimeDay": "54.21%",
+    "uptimeWeek": "54.21%",
+    "uptimeMonth": "54.21%",
+    "uptimeYear": "54.21%",
     "time": 98,
     "timeDay": 98,
     "timeWeek": 98,
     "timeMonth": 98,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2022-01-07": 39
+      "2022-01-07": 99
     }
   },
   {
@@ -125,18 +125,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-search",
     "status": "down",
-    "uptime": "75.31%",
-    "uptimeDay": "75.31%",
-    "uptimeWeek": "75.31%",
-    "uptimeMonth": "75.31%",
-    "uptimeYear": "75.31%",
+    "uptime": "54.45%",
+    "uptimeDay": "54.45%",
+    "uptimeWeek": "54.45%",
+    "uptimeMonth": "54.45%",
+    "uptimeYear": "54.45%",
     "time": 96,
     "timeDay": 96,
     "timeWeek": 96,
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-01-07": 39
+      "2022-01-07": 99
     }
   },
   {
@@ -145,18 +145,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-feedback",
     "status": "down",
-    "uptime": "75.63%",
-    "uptimeDay": "75.63%",
-    "uptimeWeek": "75.63%",
-    "uptimeMonth": "75.63%",
-    "uptimeYear": "75.63%",
+    "uptime": "54.68%",
+    "uptimeDay": "54.68%",
+    "uptimeWeek": "54.68%",
+    "uptimeMonth": "54.68%",
+    "uptimeYear": "54.68%",
     "time": 96,
     "timeDay": 96,
     "timeWeek": 96,
     "timeMonth": 96,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2022-01-07": 38
+      "2022-01-07": 98
     }
   },
   {
@@ -165,18 +165,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.factiverse.no",
     "slug": "post-to-auth-login",
     "status": "down",
-    "uptime": "81.85%",
-    "uptimeDay": "81.85%",
-    "uptimeWeek": "81.85%",
-    "uptimeMonth": "81.85%",
-    "uptimeYear": "81.85%",
+    "uptime": "59.17%",
+    "uptimeDay": "59.17%",
+    "uptimeWeek": "59.17%",
+    "uptimeMonth": "59.17%",
+    "uptimeYear": "59.17%",
     "time": 132,
     "timeDay": 132,
     "timeWeek": 132,
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-01-07": 29
+      "2022-01-07": 89
     }
   }
 ]

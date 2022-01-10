@@ -1,7 +1,7 @@
 url: https://dev.factiverse.no/v1/claim_detection
-status: up
-code: 200
-responseTime: 163
-lastUpdated: 2022-01-10T18:04:06.138Z
+status: down
+code: 503
+responseTime: 122
+lastUpdated: 2022-01-10T19:03:52.408Z
 startTime: Fri Jan 07 2022 12:25:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

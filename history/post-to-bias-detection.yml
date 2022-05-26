@@ -1,7 +1,7 @@
 url: https://dev.factiverse.no/v1/bias_detection
-status: up
-code: 200
-responseTime: 304
-lastUpdated: 2022-05-25T11:03:59.915Z
+status: down
+code: 502
+responseTime: 122
+lastUpdated: 2022-05-26T09:04:24.893Z
 startTime: Fri Jan 07 2022 12:25:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

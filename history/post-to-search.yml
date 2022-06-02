@@ -1,7 +1,7 @@
 url: https://dev.factiverse.no/v1/search
-status: degraded
-code: 200
-responseTime: 2222
-lastUpdated: 2022-06-01T17:10:34.154Z
+status: down
+code: 502
+responseTime: 164
+lastUpdated: 2022-06-02T09:04:04.466Z
 startTime: Fri Jan 07 2022 12:25:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://dev.factiverse.no/v1/stance_detection
-status: down
-code: 502
-responseTime: 121
-lastUpdated: 2022-06-14T13:13:51.682Z
+status: up
+code: 200
+responseTime: 7107
+lastUpdated: 2022-06-14T15:05:54.777Z
 startTime: Fri Jan 07 2022 12:25:46 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>

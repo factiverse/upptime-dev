@@ -1,7 +1,7 @@
 url: https://dev.factiverse.no/v1/auth/login
-status: down
-code: 502
-responseTime: 98
-lastUpdated: 2022-07-15T17:09:00.552Z
+status: up
+code: 200
+responseTime: 104
+lastUpdated: 2022-07-18T09:05:04.890Z
 startTime: Fri Jan 07 2022 12:25:55 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
